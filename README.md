@@ -29,7 +29,8 @@ Welcome to my corner of GitHub. This is where I share the projects I am building
 ### `> github_stats`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CorbanAllan&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" alt="Corban Allan's GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=CorbanAllan&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" alt="Corban Allan's GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CorbanAllan&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" alt="Corban Allan's most-used languages" />
 </div>
 
 ### `> explore`
