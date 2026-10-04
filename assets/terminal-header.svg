@@ -27,7 +27,6 @@
     <circle cx="1110" cy="205" r="52" />
   </g>
 
-  <text x="80" y="112" fill="#a3e635" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="22">corban@github:~$ whoami</text>
   <text x="80" y="180" fill="#fafafa" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="64" font-weight="700" letter-spacing="-2">Corban Allan</text>
   <rect x="80" y="204" width="440" height="4" rx="2" fill="url(#accent)" />
   <text x="80" y="246" fill="#d4d4d8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="22">&gt; mobile · backend · web</text>
