@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/CorbanAllan" width="120" alt="Corban Allan's profile picture" />
-
   # Hey, I'm Corban 👋
 
   **Building, learning, and shipping — one commit at a time.**
@@ -38,6 +36,12 @@ curiosity  →  experiments  →  useful things
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</div>
+
+### `> github_stats`
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CorbanAllan&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" alt="Corban Allan's GitHub stats" />
 </div>
 
 ### `> explore`
