@@ -1,8 +1,6 @@
 <div align="center">
   # Hey, I'm Corban 👋
 
-  **Building, learning, and shipping — one commit at a time.**
-
   [![GitHub](https://img.shields.io/badge/GitHub-CorbanAllan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CorbanAllan)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Corban_Allan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/corban-allan/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-8B5CF6?style=for-the-badge&logo=githubpages&logoColor=white)](https://corbanallan.github.io)
@@ -13,16 +11,6 @@
 ### `> hello_world`
 
 Welcome to my corner of GitHub. This is where I share the projects I am building, the ideas I am exploring, and what I learn along the way.
-
-```text
-curiosity  →  experiments  →  useful things
-```
-
-### `> what_i_do`
-
-- 🚀 Turn ideas into working projects
-- 🧠 Learn by building and experimenting
-- 🛠️ Keep things practical, thoughtful, and simple
 
 ### `> tech_stack`
 
