@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/CorbanAllan" width="120" alt="Corban Allan's profile picture" />
 
-<!--
-**CorbanAllan/CorbanAllan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  # Hey, I'm Corban 👋
 
-Here are some ideas to get you started:
+  **Building, learning, and shipping — one commit at a time.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [![GitHub](https://img.shields.io/badge/GitHub-CorbanAllan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CorbanAllan)
+</div>
+
+---
+
+### `> hello_world`
+
+Welcome to my corner of GitHub. This is where I share the projects I am building, the ideas I am exploring, and what I learn along the way.
+
+```text
+curiosity  →  experiments  →  useful things
+```
+
+### `> what_i_do`
+
+- 🚀 Turn ideas into working projects
+- 🧠 Learn by building and experimenting
+- 🛠️ Keep things practical, thoughtful, and simple
+
+### `> explore`
+
+Take a look through [my repositories](https://github.com/CorbanAllan?tab=repositories) to see what I have been working on.
+
+<div align="center">
+  <sub>Thanks for stopping by — feel free to explore, star, or say hello.</sub>
+</div>
