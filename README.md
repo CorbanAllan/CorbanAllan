@@ -8,11 +8,11 @@
 
 ---
 
-### `$ whoami`
+### `$ Hello World`
 
 Welcome to my corner of GitHub. This is where I share the projects I am building, the ideas I am exploring, and what I learn along the way.
 
-### `$ ls ./tech-stack`
+### `$ Tech Stack`
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-18181B?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -26,7 +26,7 @@ Welcome to my corner of GitHub. This is where I share the projects I am building
   <img src="https://img.shields.io/badge/CSS3-18181B?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
 </div>
 
-### `$ git stats`
+### `$ Git Stats`
 
 <table>
   <tr>
@@ -39,7 +39,7 @@ Welcome to my corner of GitHub. This is where I share the projects I am building
   </tr>
 </table>
 
-### `$ git log --graph`
+### `$ Contributions`
 
 <div align="center">
   <a href="https://github.com/CorbanAllan">
