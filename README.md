@@ -1,5 +1,5 @@
 <div align="center">
-  # Hey, I'm Corban 👋
+  <img src="./assets/header.svg" width="100%" alt="Corban Allan — software developer" />
 
   [![GitHub](https://img.shields.io/badge/GitHub-CorbanAllan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CorbanAllan)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Corban_Allan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/corban-allan/)
@@ -31,6 +31,14 @@ Welcome to my corner of GitHub. This is where I share the projects I am building
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=CorbanAllan&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" alt="Corban Allan's GitHub stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CorbanAllan&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" alt="Corban Allan's most-used languages" />
+</div>
+
+### `> contribution_calendar`
+
+<div align="center">
+  <a href="https://github.com/CorbanAllan">
+    <img width="100%" src="https://ghchart.xqsit94.in/dark:7F52FF/CorbanAllan" alt="Corban Allan's GitHub contribution calendar" />
+  </a>
 </div>
 
 ### `> explore`
