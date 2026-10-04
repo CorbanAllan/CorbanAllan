@@ -47,7 +47,7 @@ Welcome to my corner of GitHub. This is where I share the projects I am building
   </a>
 </div>
 
-### `$ find ./projects`
+### `$ Projects`
 
 Take a look through [my repositories](https://github.com/CorbanAllan?tab=repositories) to see what I have been working on.
 
