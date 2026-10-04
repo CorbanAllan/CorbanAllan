@@ -4,13 +4,13 @@
 
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#15152b" />
-      <stop offset="0.52" stop-color="#282458" />
-      <stop offset="1" stop-color="#172554" />
+      <stop offset="0" stop-color="#52525b" />
+      <stop offset="0.52" stop-color="#27272a" />
+      <stop offset="1" stop-color="#09090b" />
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#a78bfa" />
-      <stop offset="1" stop-color="#60a5fa" />
+      <stop offset="0" stop-color="#e4e4e7" />
+      <stop offset="1" stop-color="#71717a" />
     </linearGradient>
     <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
       <feGaussianBlur stdDeviation="28" />
@@ -18,8 +18,8 @@
   </defs>
 
   <rect width="1200" height="300" rx="24" fill="url(#background)" />
-  <circle cx="1050" cy="40" r="155" fill="#7c3aed" opacity="0.18" filter="url(#glow)" />
-  <circle cx="120" cy="280" r="130" fill="#2563eb" opacity="0.2" filter="url(#glow)" />
+  <circle cx="1050" cy="40" r="155" fill="#d4d4d8" opacity="0.09" filter="url(#glow)" />
+  <circle cx="120" cy="280" r="130" fill="#a1a1aa" opacity="0.1" filter="url(#glow)" />
 
   <g fill="none" stroke="#ffffff" opacity="0.08">
     <path d="M70 40h260M70 65h180M930 235h200M990 260h140" />
@@ -27,10 +27,10 @@
     <circle cx="1110" cy="205" r="52" />
   </g>
 
-  <text x="80" y="112" fill="#c4b5fd" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="22">&lt;developer&gt;</text>
-  <text x="80" y="180" fill="#ffffff" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="64" font-weight="700" letter-spacing="-2">Corban Allan</text>
+  <text x="80" y="112" fill="#a3e635" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="22">corban@github:~$ whoami</text>
+  <text x="80" y="180" fill="#fafafa" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="64" font-weight="700" letter-spacing="-2">Corban Allan</text>
   <rect x="80" y="204" width="440" height="4" rx="2" fill="url(#accent)" />
-  <text x="80" y="246" fill="#dbeafe" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="22">Mobile · Backend · Web</text>
+  <text x="80" y="246" fill="#d4d4d8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="22">&gt; mobile · backend · web</text>
 
   <g transform="translate(1000 105)" fill="none" stroke="url(#accent)" stroke-linecap="round" stroke-linejoin="round" stroke-width="10">
     <path d="M-34 0-72 38-34 76M34 0l38 38-38 38M12-18-12 94" />

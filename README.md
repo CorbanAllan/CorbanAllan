@@ -37,7 +37,7 @@ Welcome to my corner of GitHub. This is where I share the projects I am building
 
 <div align="center">
   <a href="https://github.com/CorbanAllan">
-    <img width="100%" src="https://ghchart.xqsit94.in/dark:7F52FF/CorbanAllan" alt="Corban Allan's GitHub contribution calendar" />
+    <img width="100%" src="https://ghchart.xqsit94.in/dark:9CA3AF/CorbanAllan" alt="Corban Allan's GitHub contribution calendar" />
   </a>
 </div>
 
