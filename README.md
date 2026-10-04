@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="Corban Allan — software developer" />
+  <img src="./assets/terminal-header.svg" width="100%" alt="Corban Allan — software developer" />
 
   [![GitHub](https://img.shields.io/badge/GitHub-CorbanAllan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CorbanAllan)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Corban_Allan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/corban-allan/)
