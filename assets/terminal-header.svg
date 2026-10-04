@@ -29,7 +29,7 @@
 
   <text x="80" y="180" fill="#fafafa" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="64" font-weight="700" letter-spacing="-2">Corban Allan</text>
   <rect x="80" y="204" width="440" height="4" rx="2" fill="url(#accent)" />
-  <text x="80" y="246" fill="#d4d4d8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="22">&gt; mobile · backend · web</text>
+  <text x="80" y="246" fill="#d4d4d8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="22">&gt; mobile · web</text>
 
   <g transform="translate(1000 105)" fill="none" stroke="url(#accent)" stroke-linecap="round" stroke-linejoin="round" stroke-width="10">
     <path d="M-34 0-72 38-34 76M34 0l38 38-38 38M12-18-12 94" />
