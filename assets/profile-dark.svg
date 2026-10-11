@@ -9,7 +9,7 @@
     .muted { fill: #8b949e; }
   </style>
   <rect width="1100" height="580" rx="15" fill="#161b22" />
-  <g class="ascii" fill="#7ee787" aria-hidden="true">
+  <g class="ascii" fill="#ffffff" aria-hidden="true">
     <text x="24" y="45.00">                                                 ####</text>
     <text x="24" y="54.36">                                             # ########            ##</text>
     <text x="24" y="63.72">                                        ########      ###   ###########</text>
@@ -64,6 +64,7 @@
     <text x="24" y="522.36">           ###### #####</text>
     <text x="24" y="531.72">           ##   ##</text>
   </g>
+  <text x="24" y="560" fill="#c9d1d9" style="font-size: 11px">Location: Belfast, Northern Ireland</text>
   <g fill="#c9d1d9">
     <text x="430" y="40">corban@allan <tspan class="muted">-------------------------------------------------</tspan></text>
     <text x="430" y="70"><tspan class="muted">. </tspan><tspan class="key">Name</tspan><tspan class="muted"> ......... </tspan><tspan class="value">Corban Allan</tspan></text>
