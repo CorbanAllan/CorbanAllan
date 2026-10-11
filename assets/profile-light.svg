@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="768" height="405" viewBox="0 0 1100 580" role="img" aria-labelledby="title description">
   <title id="title">Corban Allan — software developer</title>
-  <desc id="description">A detailed ASCII coastline of the island of Ireland, traced from Natural Earth geographic data, beside Corban's tech stack, contact details and daily public GitHub statistics.</desc>
+  <desc id="description">A detailed ASCII coastline of the island of Ireland, traced from Natural Earth geographic data.</desc>
   <style>
     text { font-family: Consolas, "Liberation Mono", Menlo, monospace; font-size: 16px; white-space: pre; }
     .ascii text { font-size: 7.8px; }
@@ -73,9 +73,9 @@
     <text x="430" y="118"><tspan class="muted">. </tspan><tspan class="key">Focus</tspan><tspan class="muted"> ........ </tspan><tspan class="value">Mobile, backend &amp; web</tspan></text>
     <text x="430" y="158">- Tech Stack <tspan class="muted">-------------------------------------------------</tspan></text>
     <text x="430" y="182"><tspan class="muted">. </tspan><tspan class="key">Programming</tspan><tspan class="muted"> .. </tspan><tspan class="value">Python, Java, Kotlin</tspan></text>
-    <text x="430" y="206"><tspan class="muted">. </tspan><tspan class="key">Web</tspan><tspan class="muted"> .......... </tspan><tspan class="value">HTML, CSS</tspan></text>
-    <text x="430" y="230"><tspan class="muted">. </tspan><tspan class="key">Frameworks</tspan><tspan class="muted"> ... </tspan><tspan class="value">Jetpack Compose, Spring Boot</tspan></text>
-    <text x="430" y="254"><tspan class="muted">. </tspan><tspan class="key">Tools</tspan><tspan class="muted"> ........ </tspan><tspan class="value">Git, Android Studio</tspan></text>
+    <text x="430" y="206"><tspan class="muted">. </tspan><tspan class="key">Web</tspan><tspan class="muted"> .......... </tspan><tspan class="value">HTML, CSS, Bootstrap</tspan></text>
+    <text x="430" y="230"><tspan class="muted">. </tspan><tspan class="key">Frameworks</tspan><tspan class="muted"> ... </tspan><tspan class="value">Jetpack Compose, Spring Boot, Flask</tspan></text>
+    <text x="430" y="254"><tspan class="muted">. </tspan><tspan class="key">Tools</tspan><tspan class="muted"> ........ </tspan><tspan class="value">Git, Android Studio, VSCode, IntelliJ</tspan></text>
     <text x="430" y="294">- Contact <tspan class="muted">----------------------------------------------------</tspan></text>
     <text x="430" y="318"><tspan class="muted">. </tspan><tspan class="key">GitHub</tspan><tspan class="muted"> ....... </tspan><tspan class="value">github.com/CorbanAllan</tspan></text>
     <text x="430" y="342"><tspan class="muted">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="muted"> ..... </tspan><tspan class="value">linkedin.com/in/corban-allan</tspan></text>
