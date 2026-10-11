@@ -1,40 +1,68 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="768" height="405" viewBox="0 0 1100 580" role="img" aria-labelledby="title description">
   <title id="title">Corban Allan — software developer</title>
-  <desc id="description">ASCII mountains, a pine forest and a lake beside Corban's tech stack, contact details and daily public GitHub statistics.</desc>
+  <desc id="description">A detailed ASCII coastline of the island of Ireland, traced from Natural Earth geographic data, beside Corban's tech stack, contact details and daily public GitHub statistics.</desc>
   <style>
     text { font-family: Consolas, "Liberation Mono", Menlo, monospace; font-size: 16px; white-space: pre; }
+    .ascii text { font-size: 7.8px; }
     .key { fill: #ffa657; }
     .value { fill: #a5d6ff; }
     .muted { fill: #8b949e; }
   </style>
   <rect width="1100" height="580" rx="15" fill="#161b22" />
-  <g aria-hidden="true">
-    <text x="24" y="66" fill="#a5d6ff">                          .</text>
-    <text x="24" y="84" fill="#a5d6ff">      .         *      .     .</text>
-    <text x="24" y="102" fill="#a5d6ff">                       .-.</text>
-    <text x="24" y="120" fill="#a5d6ff">                      (   )</text>
-    <text x="24" y="138" fill="#a5d6ff">                       `-'</text>
-    <text x="24" y="156" fill="#a5d6ff" />
-    <text x="24" y="174" fill="#a5d6ff">                 /\</text>
-    <text x="24" y="192" fill="#a5d6ff">       /\       /^^\       /\</text>
-    <text x="24" y="210" fill="#a5d6ff">      /^^\     /    \     /^^\</text>
-    <text x="24" y="228" fill="#a5d6ff">     /    \   /      \   /    \</text>
-    <text x="24" y="246" fill="#a5d6ff">    /      \_/   /\   \_/      \</text>
-    <text x="24" y="264" fill="#a5d6ff">   /  /\        /  \        /\  \</text>
-    <text x="24" y="282" fill="#a5d6ff">  /__/  \______/    \______/  \__\</text>
-    <text x="24" y="300" fill="#a5d6ff" />
-    <text x="24" y="318" fill="#7ee787">     /\      /\          /\</text>
-    <text x="24" y="336" fill="#7ee787">    /**\    /**\   /\   /**\</text>
-    <text x="24" y="354" fill="#7ee787">   /****\  /****\ /**\ /****\</text>
-    <text x="24" y="372" fill="#7ee787">  /******\/******\****\******\</text>
-    <text x="24" y="390" fill="#7ee787">     ||      ||     ||    ||</text>
-    <text x="24" y="408" fill="#7ee787">  ___||______||_____||____||____</text>
-    <text x="24" y="426" fill="#7ee787"> /                             \</text>
-    <text x="24" y="444" fill="#76e3ea"> ~~~  ~~~~~   ~~~~~~   ~~~~~  ~~~</text>
-    <text x="24" y="462" fill="#76e3ea">   ~~~~~   ~~~~    ~~~~~   ~~~~</text>
-    <text x="24" y="480" fill="#76e3ea">      ~~~~    ~~~~~~    ~~~~</text>
-    <text x="24" y="498" fill="#76e3ea" />
-    <text x="24" y="516" fill="#8b949e">      take the scenic route.</text>
+  <g class="ascii" fill="#7ee787" aria-hidden="true">
+    <text x="24" y="45.00">                                                 ####</text>
+    <text x="24" y="54.36">                                             # ########            ##</text>
+    <text x="24" y="63.72">                                        ########      ###   ###########</text>
+    <text x="24" y="73.08">                                   ##############   #########         ##</text>
+    <text x="24" y="82.44">                                  ##        #####  #####              ###</text>
+    <text x="24" y="91.80">                               #####         ####     #                ##</text>
+    <text x="24" y="101.16">                                 ###         #                          ###</text>
+    <text x="24" y="110.52">                               #####                                      ###</text>
+    <text x="24" y="119.88">                             #####                                         ##</text>
+    <text x="24" y="129.24">                           ##                                            ######</text>
+    <text x="24" y="138.60">                           ############                                 ###   ##</text>
+    <text x="24" y="147.96">                                 #  ##                                      ####</text>
+    <text x="24" y="157.32">                                #####                                       ### #</text>
+    <text x="24" y="166.68">                             ####                                           #####</text>
+    <text x="24" y="176.04">        ## ########### ###   ####                                           # ##</text>
+    <text x="24" y="185.40">       ######       ####  #######                                        ######</text>
+    <text x="24" y="194.76">       ####          ##        #                                         #</text>
+    <text x="24" y="204.12">      ## ###                                                       #######</text>
+    <text x="24" y="213.48">    ########                                                     #######</text>
+    <text x="24" y="222.84">    ########## #                                                 #   #</text>
+    <text x="24" y="232.20">         #### ##                                                 ###</text>
+    <text x="24" y="241.56">        ########                                                   ##</text>
+    <text x="24" y="250.92">          #                                                        #</text>
+    <text x="24" y="260.28">        ######                                                     ###</text>
+    <text x="24" y="269.64">     #####                                                           ##</text>
+    <text x="24" y="279.00">      ###                                                           ####</text>
+    <text x="24" y="288.36">      ##########                                                    ###</text>
+    <text x="24" y="297.72">          ######                                                    ##</text>
+    <text x="24" y="307.08">           ################                                          ##</text>
+    <text x="24" y="316.44">           ###      ######                                            #</text>
+    <text x="24" y="325.80">            ###    #####                                              ##</text>
+    <text x="24" y="335.16">                  ##                                                  #</text>
+    <text x="24" y="344.52">                 ###                                                  ##</text>
+    <text x="24" y="353.88">                 ##                                                  ##</text>
+    <text x="24" y="363.24">                ##      ##                                           #</text>
+    <text x="24" y="372.60">              ###      #####                                        ##</text>
+    <text x="24" y="381.96">            #################                                       #</text>
+    <text x="24" y="391.32">         #############                                              #</text>
+    <text x="24" y="400.68">            ###                                                   ##</text>
+    <text x="24" y="410.04">         ####                                                   ###</text>
+    <text x="24" y="419.40">        #  #                                                   ###</text>
+    <text x="24" y="428.76">   ###########                                         ## ##     ##</text>
+    <text x="24" y="438.12"> ###     ####                                        ##############</text>
+    <text x="24" y="447.48"> ############                                 ############</text>
+    <text x="24" y="456.84">     ######                                   ##</text>
+    <text x="24" y="466.20">   ###                                    #####</text>
+    <text x="24" y="475.56">  ####      ####                 ##### ####</text>
+    <text x="24" y="484.92">   #### ######                    #######</text>
+    <text x="24" y="494.28">      ## ###   ###             #####</text>
+    <text x="24" y="503.64">      ############          #####</text>
+    <text x="24" y="513.00">      ###  #########  ######## #</text>
+    <text x="24" y="522.36">           ###### #####</text>
+    <text x="24" y="531.72">           ##   ##</text>
   </g>
   <g fill="#c9d1d9">
     <text x="430" y="40">corban@allan <tspan class="muted">-------------------------------------------------</tspan></text>
