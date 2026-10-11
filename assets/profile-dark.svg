@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="510" viewBox="0 0 1000 510" role="img" aria-labelledby="title description">
+  <title id="title">Corban Allan — software developer</title>
+  <desc id="description">An ASCII robot coding at a laptop beside a terminal profile listing Corban's focus, tech stack, contact links and projects.</desc>
+  <style>
+    text { font-family: Consolas, "Liberation Mono", Menlo, monospace; font-size: 16px; white-space: pre; }
+    .key { fill: #ffa657; }
+    .value { fill: #a5d6ff; }
+    .muted { fill: #616e7f; }
+  </style>
+  <rect width="1000" height="510" rx="15" fill="#161b22" />
+  <g fill="#7ee787" aria-hidden="true">
+    <text x="20" y="48">          \         /</text>
+    <text x="20" y="68">           \_______/</text>
+    <text x="20" y="88">         .'         '.</text>
+    <text x="20" y="108">        /   o     o   \</text>
+    <text x="20" y="128">       |  .---------.  |</text>
+    <text x="20" y="148">       |  |  &gt;_     |  |</text>
+    <text x="20" y="168">       |  '---------'  |</text>
+    <text x="20" y="188">        \_____________/</text>
+    <text x="20" y="208">     .----|         |----.</text>
+    <text x="20" y="228">    /  /  |  {   }  |  \  \</text>
+    <text x="20" y="248">   /__/   |         |   \__\</text>
+    <text x="20" y="268">  (___)   |_________|   (___)</text>
+    <text x="20" y="288">          /  /   \  \</text>
+    <text x="20" y="308">         /__/     \__\</text>
+    <text x="20" y="328"></text>
+    <text x="20" y="348">       .-----------------.</text>
+    <text x="20" y="368">       | $ git commit    |</text>
+    <text x="20" y="388">       |   -m "it works" |</text>
+    <text x="20" y="408">       |_________________|</text>
+    <text x="20" y="428">      /___________________\</text>
+    <text x="20" y="448"></text>
+    <text x="20" y="468">        eat. code. reboot.</text>
+  </g>
+  <g fill="#c9d1d9">
+    <text x="350" y="40">corban@allan <tspan class="muted">---------------------------------------------</tspan></text>
+    <text x="350" y="180">- Tech Stack <tspan class="muted">---------------------------------------------</tspan></text>
+    <text x="350" y="308">- Contact <tspan class="muted">------------------------------------------------</tspan></text>
+    <text x="350" y="412">- GitHub <tspan class="muted">-------------------------------------------------</tspan></text>
+    <text x="350" y="76"><tspan class="muted">. </tspan><tspan class="key">Name</tspan><tspan class="muted"> ......... </tspan><tspan class="value">Corban Allan</tspan></text>
+    <text x="350" y="100"><tspan class="muted">. </tspan><tspan class="key">Role</tspan><tspan class="muted"> ......... </tspan><tspan class="value">Software developer</tspan></text>
+    <text x="350" y="124"><tspan class="muted">. </tspan><tspan class="key">Focus</tspan><tspan class="muted"> ........ </tspan><tspan class="value">Mobile, backend &amp; web</tspan></text>
+    <text x="350" y="148"><tspan class="muted">. </tspan><tspan class="key">Editor</tspan><tspan class="muted"> ....... </tspan><tspan class="value">Android Studio</tspan></text>
+    <text x="350" y="204"><tspan class="muted">. </tspan><tspan class="key">Programming</tspan><tspan class="muted"> .. </tspan><tspan class="value">Python, Java, Kotlin</tspan></text>
+    <text x="350" y="228"><tspan class="muted">. </tspan><tspan class="key">Web</tspan><tspan class="muted"> .......... </tspan><tspan class="value">HTML, CSS</tspan></text>
+    <text x="350" y="252"><tspan class="muted">. </tspan><tspan class="key">Frameworks</tspan><tspan class="muted"> ... </tspan><tspan class="value">Jetpack Compose, Spring Boot</tspan></text>
+    <text x="350" y="276"><tspan class="muted">. </tspan><tspan class="key">Tools</tspan><tspan class="muted"> ........ </tspan><tspan class="value">Git, Android Studio</tspan></text>
+    <text x="350" y="332"><tspan class="muted">. </tspan><tspan class="key">GitHub</tspan><tspan class="muted"> ....... </tspan><tspan class="value">github.com/CorbanAllan</tspan></text>
+    <text x="350" y="356"><tspan class="muted">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="muted"> ..... </tspan><tspan class="value">linkedin.com/in/corban-allan</tspan></text>
+    <text x="350" y="380"><tspan class="muted">. </tspan><tspan class="key">Portfolio</tspan><tspan class="muted"> .... </tspan><tspan class="value">corbanallan.github.io</tspan></text>
+    <text x="350" y="436"><tspan class="muted">. </tspan><tspan class="key">Projects</tspan><tspan class="muted"> ..... </tspan><tspan class="value">Explore my repositories</tspan></text>
+    <text x="350" y="460"><tspan class="muted">. </tspan><tspan class="key">Status</tspan><tspan class="muted"> ....... </tspan><tspan class="value">Building, exploring, learning</tspan></text>
+    <text x="350" y="492" class="muted">$ hello, world. <tspan fill="#7ee787">_</tspan></text>
+  </g>
+</svg>
